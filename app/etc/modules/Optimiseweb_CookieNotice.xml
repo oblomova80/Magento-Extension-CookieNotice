@@ -11,7 +11,7 @@
     <modules>
         <Optimiseweb_CookieNotice>
             <active>true</active>
-            <codePool>community</codePool>
+            <codePool>local</codePool>
         </Optimiseweb_CookieNotice>
     </modules>
 </config>
