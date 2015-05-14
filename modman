@@ -3,5 +3,5 @@ app/design/adminhtml/default/default/template/optimiseweb 	app/design/adminhtml/
 app/design/frontend/base/default/layout/optimiseweb_cookienotice.xml 	app/design/frontend/base/default/layout/optimiseweb_cookienotice.xml
 app/design/frontend/base/default/template/optimiseweb 	app/design/frontend/base/default/template/optimiseweb
 app/etc/modules/Optimiseweb_CookieNotice.xml 	app/etc/modules/Optimiseweb_CookieNotice.xml
-app/community/en_US/Optimiseweb_CookieNotice.csv 	app/community/en_US/Optimiseweb_CookieNotice.csv
+app/locale/en_US/Optimiseweb_CookieNotice.csv 	app/locale/en_US/Optimiseweb_CookieNotice.csv
 skin/frontend/base/default/css/cookienotice.css	skin/frontend/base/default/css/cookienotice.css
