@@ -95,7 +95,7 @@
             <behaviour>
                 <persistent>0</persistent>
                 <close_enabled>1</close_enabled>
-                <close_text><![CDATA[<span class="ic ic-close" style="font-size:1.1em;"></span> <span style="font-size:1.1em;"> Chiudi</span>]]></close_text>
+                <close_text><![CDATA[<span class="ic ic-close" style="font-size:1.0em;"></span> <span style="font-size:1.1em;"> Chiudi</span>]]></close_text>
                 <autohide>0</autohide>
                 <autohide_time>5</autohide_time>
             </behaviour>
