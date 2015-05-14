@@ -4,7 +4,9 @@
 
 /* MESSAGE */
 .cookienotice-message {float: left;}
-.cookienotice-page-link {}
+.cookienotice-page-link {
+	font-weight:bold;
+}
 .cookienotice-page-link:hover {}
 
 /* BUTTON */
